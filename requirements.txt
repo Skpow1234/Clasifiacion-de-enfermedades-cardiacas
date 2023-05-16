@@ -1,4 +1,5 @@
-pip install pandas
-pip install numpy
-pip install matplotlib
-pip install seaborn
+install pandas
+install numpy
+install matplotlib
+install seaborn
+install -U scikit-learn
